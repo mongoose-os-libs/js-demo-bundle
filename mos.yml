@@ -1,0 +1,34 @@
+author: mongoose-os
+type: lib
+description: Collection of libraries for JavaScript demos
+platforms: [ cc3200, esp32, esp8266 ]
+version: 1.0
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/aws
+  - origin: https://github.com/mongoose-os-libs/ca-bundle
+  - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/mongoose-os-libs/i2c
+  - origin: https://github.com/mongoose-os-libs/ota-http-server
+  - origin: https://github.com/mongoose-os-libs/pwm
+  - origin: https://github.com/mongoose-os-libs/rpc-loopback
+  - origin: https://github.com/mongoose-os-libs/rpc-mqtt
+  - origin: https://github.com/mongoose-os-libs/rpc-service-config
+  - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/rpc-service-gpio
+  - origin: https://github.com/mongoose-os-libs/rpc-service-i2c
+  - origin: https://github.com/mongoose-os-libs/rpc-service-ota
+  - origin: https://github.com/mongoose-os-libs/rpc-service-wifi
+  - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/spi
+  - origin: https://github.com/mongoose-os-libs/vfs-dev-spi-flash
+  - origin: https://github.com/mongoose-os-libs/wifi
+
+
+sources:
+  - src
+
+tags:
+  - js
+
+manifest_version: 2017-05-18
