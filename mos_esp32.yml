@@ -6,5 +6,6 @@ libs:
   - origin: https://github.com/mongoose-os-libs/ethernet
   - origin: https://github.com/mongoose-os-libs/gcp
   - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/mongoose-os-libs/pwm
   - origin: https://github.com/mongoose-os-libs/rpc-gatts
   - origin: https://github.com/mongoose-os-libs/rpc-service-atca
