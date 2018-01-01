@@ -1,6 +1,0 @@
-libs:
-  - origin: https://github.com/mongoose-os-libs/adc
-  - origin: https://github.com/mongoose-os-libs/atca
-  - origin: https://github.com/mongoose-os-libs/dns-sd
-  - origin: https://github.com/mongoose-os-libs/pwm
-  - origin: https://github.com/mongoose-os-libs/rpc-service-atca

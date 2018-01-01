@@ -1,4 +1,0 @@
-libs:
-  - origin: https://github.com/mongoose-os-libs/bm222
-  - origin: https://github.com/mongoose-os-libs/mjs
-  - origin: https://github.com/mongoose-os-libs/tmp006
