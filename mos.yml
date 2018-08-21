@@ -1,6 +1,5 @@
 author: mongoose-os
 type: lib
-platforms: [ cc3220, esp32, esp8266 ]
 description: Collection of libraries for JavaScript demos
 version: 1.0
 
