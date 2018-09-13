@@ -12,5 +12,6 @@ libs:
 
 tags:
   - js
+  - docs:misc:JS demo bundle
 
 manifest_version: 2017-09-29
