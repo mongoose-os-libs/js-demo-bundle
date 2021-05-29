@@ -7,8 +7,8 @@ sources:
   - src
 
 libs:
-  - origin: https://github.com/mongoose-os-libs/demo-bundle
-  - origin: https://github.com/mongoose-os-libs/mjs
+  - location: https://github.com/mongoose-os-libs/demo-bundle
+  - location: https://github.com/mongoose-os-libs/mjs
 
 tags:
   - js
